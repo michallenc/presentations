@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="131.98817mm"
+   height="19.703604mm"
+   viewBox="0 0 131.98817 19.703604"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="01.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.4396184"
+     inkscape:cx="253.19209"
+     inkscape:cy="72.58868"
+     inkscape:window-width="1850"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-31.392975,-89.764771)">
+    <text
+       xml:space="preserve"
+       style="font-size:3.88056px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="97.425926"
+       y="98.715591"
+       id="text27340-3"><tspan
+         sodipodi:role="line"
+         id="tspan27338-5"
+         style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="97.425926"
+         y="98.715591">Sekundární (B)</tspan><tspan
+         sodipodi:role="line"
+         style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="97.425926"
+         y="103.56629"
+         id="tspan41778">NOR</tspan></text>
+    <rect
+       style="opacity:0.2;fill:none;stroke-width:0.264583"
+       id="rect1016"
+       width="28.556643"
+       height="33.271931"
+       x="32.076595"
+       y="105.4493" />
+    <rect
+       style="opacity:0.2;fill:none;stroke-width:50;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect1018"
+       width="37.22192"
+       height="34.677616"
+       x="40.334095"
+       y="108.44661" />
+    <rect
+       style="opacity:0.2;fill:none;stroke-width:49.9999;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect1152"
+       width="45.992012"
+       height="39.57095"
+       x="40.72823"
+       y="99.245766" />
+    <rect
+       style="opacity:0.2;fill:none;stroke-width:49.9999;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect1154"
+       width="9.8017406"
+       height="6.699615"
+       x="72.570068"
+       y="129.92386" />
+    <rect
+       style="opacity:0.2;fill:none;stroke-width:49.9999;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect1156"
+       width="35.113392"
+       height="46.187286"
+       x="49.239159"
+       y="102.65086" />
+    <rect
+       style="opacity:0.2;fill:none;stroke-width:49.9999;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect1158"
+       width="43.019829"
+       height="38.629036"
+       x="48.517651"
+       y="115.56621" />
+    <rect
+       style="opacity:0.2;fill:none;stroke-width:49.9999;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect1160"
+       width="16.918465"
+       height="6.6500745"
+       x="74.619003"
+       y="154.19525" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.305343;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1162-7"
+       width="40.366505"
+       height="19.39826"
+       x="77.203827"
+       y="89.917442" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.305343;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1162-5"
+       width="40.366505"
+       height="19.39826"
+       x="122.86198"
+       y="89.917442" />
+    <rect
+       style="opacity:1;fill:none;stroke:#000000;stroke-width:0.305343;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1162"
+       width="40.366505"
+       height="19.39826"
+       x="31.545647"
+       y="89.917442" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.88056px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="51.587734"
+       y="98.339478"
+       id="text27340"><tspan
+         sodipodi:role="line"
+         id="tspan27338"
+         style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="51.587734"
+         y="98.339478">Primární (A)</tspan><tspan
+         sodipodi:role="line"
+         style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="51.587734"
+         y="103.19018"
+         id="tspan64016">programová paměť</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.88056px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="143.21765"
+       y="98.715591"
+       id="text27340-3-6"><tspan
+         sodipodi:role="line"
+         id="tspan27338-5-2"
+         style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="143.21765"
+         y="98.715591">Terciální (C)</tspan><tspan
+         sodipodi:role="line"
+         style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="143.21765"
+         y="103.56629"
+         id="tspan55448">NOR</tspan></text>
+  </g>
+</svg>

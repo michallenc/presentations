@@ -1,0 +1,10 @@
+*.fls
+*.log
+*.nav
+*.out
+*.snm
+*.pdf.deps
+*.toc
+*.fdb*
+*.aux
+*.vrb
