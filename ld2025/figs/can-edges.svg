@@ -1,0 +1,1236 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Creator: fig2dev Version 3.2.9 -->
+
+<!-- CreationDate: 2024-02-13 20:15:12 -->
+
+<!-- Magnification: 1 -->
+
+<svg
+   width="396pt"
+   height="390pt"
+   viewBox="1017 1242 6591 6500"
+   version="1.1"
+   id="svg707"
+   sodipodi:docname="can_edges.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs711" />
+  <sodipodi:namedview
+     id="namedview709"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="pt"
+     showgrid="false"
+     inkscape:zoom="1.5519231"
+     inkscape:cx="263.86617"
+     inkscape:cy="276.7534"
+     inkscape:window-width="1850"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g705" />
+  <g
+     fill="none"
+     id="g705">
+    <!-- Line -->
+    <rect
+       x="5775"
+       y="2025"
+       width="1800"
+       height="2100"
+       fill="#e0e0e0"
+       stroke="#000000"
+       stroke-width="30px"
+       id="rect377" />
+    <!-- Line -->
+    <rect
+       x="5325"
+       y="1275"
+       width="2250"
+       height="600"
+       fill="#e0e0e0"
+       stroke="#000000"
+       stroke-width="30px"
+       id="rect379" />
+    <!-- Line -->
+    <rect
+       x="5775"
+       y="5400"
+       width="1800"
+       height="2100"
+       fill="#e0e0e0"
+       stroke="#000000"
+       stroke-width="30px"
+       id="rect381" />
+    <!-- Line -->
+    <rect
+       x="5325"
+       y="4650"
+       width="2250"
+       height="600"
+       fill="#e0e0e0"
+       stroke="#000000"
+       stroke-width="30px"
+       id="rect383" />
+    <!-- Line -->
+    <rect
+       x="1500"
+       y="3375"
+       width="1800"
+       height="2100"
+       fill="#e0e0e0"
+       stroke="#000000"
+       stroke-width="30px"
+       id="rect385" />
+    <!-- Line -->
+    <rect
+       x="1050"
+       y="2625"
+       width="2250"
+       height="600"
+       fill="#e0e0e0"
+       stroke="#000000"
+       stroke-width="30px"
+       id="rect387" />
+    <!-- Line -->
+    <!-- polyline -->
+    <polyline
+       points=" 5789,7110 5796,7095 5807,7081 5821,7068 5837,7059 5855,7054 5871,7053 5888,7054  5904,7058 5919,7066 5934,7077 5946,7090 5954,7107 5960,7124 5962,7141 5960,7158  5956,7174 5948,7189 5937,7203 5923,7216 5907,7224 5890,7229 5873,7231 5856,7230  5840,7225 5825,7217 5811,7207 5798,7193 5790,7176 5784,7159 5783,7142 5783,7126  5789,7110"
+       fill="#0000ff"
+       id="polyline389" />
+    <!-- Line -->
+    <!-- polyline -->
+    <polyline
+       points=" 3080,4478 2898,4549 2893,4553 2891,4558 2892,4564 2897,4568 3073,4656 3075,4657  3076,4657 3080,4656 3084,4654 3086,4651 3087,4648 3094,4488 3093,4484 3092,4480  3088,4479 3084,4478 3083,4478 3080,4478"
+       fill="#0000ff"
+       id="polyline391" />
+    <!-- Line -->
+    <!-- polyline -->
+    <polyline
+       points=" 5817,7144 5677,7118 5674,7118 5679,7107 5681,7095 5821,7121 5817,7144"
+       fill="#0000ff"
+       id="polyline393" />
+    <!-- Line -->
+    <!-- polyline -->
+    <polyline
+       points=" 5674,7118 5437,7018 5434,7016 5441,7007 5446,6995 5683,7096 5679,7107 5674,7118 "
+       fill="#0000ff"
+       id="polyline395" />
+    <!-- Line -->
+    <!-- polyline -->
+    <polyline
+       points=" 5434,7016 5234,6875 5233,6873 5241,6865 5248,6855 5448,6997 5441,7007 5434,7016 "
+       fill="#0000ff"
+       id="polyline397" />
+    <!-- Line -->
+    <!-- polyline -->
+    <polyline
+       points=" 5241,6865 5233,6873 5061,6695 5071,6688 5080,6681 5249,6857 5241,6865"
+       fill="#0000ff"
+       id="polyline399" />
+    <!-- Line -->
+    <!-- polyline -->
+    <polyline
+       points=" 5071,6688 5061,6695 4913,6490 4923,6484 4933,6478 5080,6681 5071,6688"
+       fill="#0000ff"
+       id="polyline401" />
+    <!-- Line -->
+    <!-- polyline -->
+    <polyline
+       points=" 4923,6484 4913,6490 4782,6266 4793,6261 4803,6255 4933,6478 4923,6484"
+       fill="#0000ff"
+       id="polyline403" />
+    <!-- Line -->
+    <!-- polyline -->
+    <polyline
+       points=" 4793,6261 4782,6266 4660,6029 4671,6024 4682,6019 4803,6255 4793,6261"
+       fill="#0000ff"
+       id="polyline405" />
+    <!-- Line -->
+    <!-- polyline -->
+    <polyline
+       points=" 4671,6024 4660,6029 4542,5788 4553,5783 4564,5777 4682,6019 4671,6024"
+       fill="#0000ff"
+       id="polyline407" />
+    <!-- Line -->
+    <!-- polyline -->
+    <polyline
+       points=" 4553,5783 4542,5788 4421,5550 4431,5544 4441,5538 4564,5777 4553,5783"
+       fill="#0000ff"
+       id="polyline409" />
+    <!-- Line -->
+    <!-- polyline -->
+    <polyline
+       points=" 4431,5544 4421,5550 4288,5322 4298,5315 4308,5308 4441,5538 4431,5544"
+       fill="#0000ff"
+       id="polyline411" />
+    <!-- Line -->
+    <!-- polyline -->
+    <polyline
+       points=" 4298,5315 4288,5322 4138,5111 4147,5103 4156,5094 4308,5308 4298,5315"
+       fill="#0000ff"
+       id="polyline413" />
+    <!-- Line -->
+    <!-- polyline -->
+    <polyline
+       points=" 4147,5103 4138,5111 3965,4924 3972,4915 3979,4906 4156,5094 4147,5103"
+       fill="#0000ff"
+       id="polyline415" />
+    <!-- Line -->
+    <!-- polyline -->
+    <polyline
+       points=" 3965,4924 3758,4769 3766,4760 3770,4749 3773,4751 3979,4906 3972,4915 3965,4924 "
+       fill="#0000ff"
+       id="polyline417" />
+    <!-- Line -->
+    <!-- polyline -->
+    <polyline
+       points=" 3761,4770 3516,4654 3521,4643 3524,4632 3526,4632 3770,4749 3766,4760 3761,4770 "
+       fill="#0000ff"
+       id="polyline419" />
+    <!-- Line -->
+    <!-- polyline -->
+    <polyline
+       points=" 3519,4655 3229,4585 3232,4574 3232,4562 3234,4562 3524,4632 3521,4643 3519,4655 "
+       fill="#0000ff"
+       id="polyline421" />
+    <!-- Line -->
+    <!-- polyline -->
+    <polyline
+       points=" 3232,4574 3231,4585 3050,4577 3051,4554 3232,4562 3232,4574"
+       fill="#0000ff"
+       id="polyline423" />
+    <!-- Line -->
+    <!-- polyline -->
+    <polyline
+       points=" 3052,5084 3049,5101 3042,5118 3033,5133 3019,5146 3003,5155 2988,5161 2971,5165  2955,5164 2938,5161 2921,5154 2906,5144 2893,5131 2884,5115 2877,5100 2874,5083  2874,5067 2878,5050 2884,5033 2895,5018 2907,5005 2923,4996 2939,4990 2955,4986  2972,4987 2989,4990 3006,4996 3021,5007 3034,5020 3043,5035 3050,5051 3053,5067  3052,5084"
+       fill="#dc2300"
+       id="polyline425" />
+    <!-- Line -->
+    <!-- polyline -->
+    <polyline
+       points=" 5850,2835 6017,2734 6022,2730 6023,2724 6021,2718 6015,2715 5827,2659 5825,2658  5824,2658 5820,2660 5816,2662 5815,2665 5815,2669 5834,2828 5836,2832 5838,2835  5842,2836 5846,2836 5848,2836 5850,2835"
+       fill="#dc2300"
+       id="polyline427" />
+    <!-- Line -->
+    <!-- polyline -->
+    <polyline
+       points=" 3016,5059 3153,5047 3155,5059 3158,5069 3156,5070 3018,5082 3016,5059"
+       fill="#dc2300"
+       id="polyline429" />
+    <!-- Line -->
+    <!-- polyline -->
+    <polyline
+       points=" 3151,5047 3391,4975 3394,4987 3400,4997 3398,4998 3158,5069 3155,5059 3151,5047 "
+       fill="#dc2300"
+       id="polyline431" />
+    <!-- Line -->
+    <!-- polyline -->
+    <polyline
+       points=" 3388,4976 3593,4864 3599,4875 3606,4884 3605,4885 3400,4997 3394,4987 3388,4976 "
+       fill="#dc2300"
+       id="polyline433" />
+    <!-- Line -->
+    <!-- polyline -->
+    <polyline
+       points=" 3599,4875 3591,4865 3766,4722 3775,4730 3783,4737 3606,4884 3599,4875"
+       fill="#dc2300"
+       id="polyline435" />
+    <!-- Line -->
+    <!-- polyline -->
+    <polyline
+       points=" 3775,4730 3766,4722 3918,4550 3928,4557 3938,4564 3783,4737 3775,4730"
+       fill="#dc2300"
+       id="polyline437" />
+    <!-- Line -->
+    <!-- polyline -->
+    <polyline
+       points=" 3928,4557 3918,4550 4056,4358 4067,4364 4077,4370 3938,4564 3928,4557"
+       fill="#dc2300"
+       id="polyline439" />
+    <!-- Line -->
+    <!-- polyline -->
+    <polyline
+       points=" 4067,4364 4056,4358 4185,4151 4196,4157 4206,4163 4077,4370 4067,4364"
+       fill="#dc2300"
+       id="polyline441" />
+    <!-- Line -->
+    <!-- polyline -->
+    <polyline
+       points=" 4196,4157 4185,4151 4312,3936 4322,3942 4332,3948 4206,4163 4196,4157"
+       fill="#dc2300"
+       id="polyline443" />
+    <!-- Line -->
+    <!-- polyline -->
+    <polyline
+       points=" 4322,3942 4312,3936 4443,3719 4453,3726 4462,3732 4332,3948 4322,3942"
+       fill="#dc2300"
+       id="polyline445" />
+    <!-- Line -->
+    <!-- polyline -->
+    <polyline
+       points=" 4453,3726 4443,3719 4584,3507 4594,3515 4603,3522 4462,3732 4453,3726"
+       fill="#dc2300"
+       id="polyline447" />
+    <!-- Line -->
+    <!-- polyline -->
+    <polyline
+       points=" 4594,3515 4584,3507 4743,3307 4752,3316 4760,3324 4603,3522 4594,3515"
+       fill="#dc2300"
+       id="polyline449" />
+    <!-- Line -->
+    <!-- polyline -->
+    <polyline
+       points=" 4752,3316 4743,3307 4926,3125 4933,3135 4940,3144 4760,3324 4752,3316"
+       fill="#dc2300"
+       id="polyline451" />
+    <!-- Line -->
+    <!-- polyline -->
+    <polyline
+       points=" 4933,3135 4926,3125 5139,2968 5145,2979 5150,2989 4940,3144 4933,3135"
+       fill="#dc2300"
+       id="polyline453" />
+    <!-- Line -->
+    <!-- polyline -->
+    <polyline
+       points=" 5139,2968 5387,2843 5388,2842 5392,2854 5397,2864 5150,2989 5145,2979 5139,2968 "
+       fill="#dc2300"
+       id="polyline455" />
+    <!-- Line -->
+    <!-- polyline -->
+    <polyline
+       points=" 5392,2854 5388,2842 5681,2755 5683,2767 5684,2778 5396,2865 5392,2854"
+       fill="#dc2300"
+       id="polyline457" />
+    <!-- Line -->
+    <!-- polyline -->
+    <polyline
+       points=" 5683,2767 5681,2755 5863,2732 5866,2755 5684,2778 5683,2767"
+       fill="#dc2300"
+       id="polyline459" />
+    <!-- Line -->
+    <!-- polyline -->
+    <polyline
+       points=" 2289,7424 1575,7424 1575,6120 3005,6120 3005,7424 2289,7424"
+       fill="#e0e0e0"
+       stroke="#000000"
+       stroke-width="8px"
+       id="polyline461" />
+    <!-- Line -->
+    <rect
+       x="5925"
+       y="3525"
+       width="1500"
+       height="450"
+       stroke="#000000"
+       stroke-width="30px"
+       id="rect463" />
+    <!-- Line -->
+    <rect
+       x="5925"
+       y="3000"
+       width="1500"
+       height="450"
+       stroke="#000000"
+       stroke-width="30px"
+       id="rect465" />
+    <!-- Line -->
+    <rect
+       x="5925"
+       y="2475"
+       width="1500"
+       height="450"
+       stroke="#000000"
+       stroke-width="30px"
+       id="rect467" />
+    <!-- Text -->
+    <text
+       xml:space="preserve"
+       x="6000"
+       y="2325"
+       fill="#000000"
+       font-family="Times"
+       font-style="normal"
+       font-weight="normal"
+       font-size="288"
+       text-anchor="start"
+       id="text469">ends</text>
+    <!-- Text -->
+    <text
+       xml:space="preserve"
+       x="6075"
+       y="3375"
+       fill="#000000"
+       font-family="Times"
+       font-style="normal"
+       font-weight="normal"
+       font-size="288"
+       text-anchor="start"
+       id="text471">idle</text>
+    <!-- Text -->
+    <text
+       xml:space="preserve"
+       x="6075"
+       y="3900"
+       fill="#000000"
+       font-family="Times"
+       font-style="normal"
+       font-weight="normal"
+       font-size="288"
+       text-anchor="start"
+       id="text473">inlist</text>
+    <!-- Text -->
+    <text
+       xml:space="preserve"
+       x="6075"
+       y="2775"
+       fill="#000000"
+       font-family="Times"
+       font-style="normal"
+       font-weight="normal"
+       font-size="288"
+       text-anchor="start"
+       id="text475">active[]</text>
+    <!-- Text -->
+    <text
+       xml:space="preserve"
+       x="5475"
+       y="1725"
+       fill="#000000"
+       font-family="Times"
+       font-style="normal"
+       font-weight="normal"
+       font-size="288px"
+       text-anchor="start"
+       id="text477">App/User 1</text>
+    <!-- Text -->
+    <text
+       xml:space="preserve"
+       x="2250"
+       y="6825"
+       fill="#000000"
+       font-family="Times"
+       font-style="normal"
+       font-weight="normal"
+       font-size="264"
+       text-anchor="middle"
+       id="text479">controller</text>
+    <!-- Text -->
+    <text
+       xml:space="preserve"
+       x="2250"
+       y="6525"
+       fill="#000000"
+       font-family="Times"
+       font-style="normal"
+       font-weight="normal"
+       font-size="264"
+       text-anchor="middle"
+       id="text481">CAN</text>
+    <!-- Text -->
+    <text
+       xml:space="preserve"
+       x="2250"
+       y="7125"
+       fill="#000000"
+       font-family="Times"
+       font-style="normal"
+       font-weight="normal"
+       font-size="264px"
+       text-anchor="middle"
+       id="text483">or virtual</text>
+    <!-- Line -->
+    <rect
+       x="5925"
+       y="6900"
+       width="1500"
+       height="450"
+       stroke="#000000"
+       stroke-width="30px"
+       id="rect485" />
+    <!-- Line -->
+    <rect
+       x="5925"
+       y="6375"
+       width="1500"
+       height="450"
+       stroke="#000000"
+       stroke-width="30px"
+       id="rect487" />
+    <!-- Line -->
+    <rect
+       x="5925"
+       y="5850"
+       width="1500"
+       height="450"
+       stroke="#000000"
+       stroke-width="30px"
+       id="rect489" />
+    <!-- Text -->
+    <text
+       xml:space="preserve"
+       x="6000"
+       y="5700"
+       fill="#000000"
+       font-family="Times"
+       font-style="normal"
+       font-weight="normal"
+       font-size="288"
+       text-anchor="start"
+       id="text491">ends</text>
+    <!-- Text -->
+    <text
+       xml:space="preserve"
+       x="6075"
+       y="6750"
+       fill="#000000"
+       font-family="Times"
+       font-style="normal"
+       font-weight="normal"
+       font-size="288"
+       text-anchor="start"
+       id="text493">idle</text>
+    <!-- Text -->
+    <text
+       xml:space="preserve"
+       x="6075"
+       y="7275"
+       fill="#000000"
+       font-family="Times"
+       font-style="normal"
+       font-weight="normal"
+       font-size="288"
+       text-anchor="start"
+       id="text495">inlist</text>
+    <!-- Text -->
+    <text
+       xml:space="preserve"
+       x="6075"
+       y="6150"
+       fill="#000000"
+       font-family="Times"
+       font-style="normal"
+       font-weight="normal"
+       font-size="288"
+       text-anchor="start"
+       id="text497">active[]</text>
+    <!-- Text -->
+    <text
+       xml:space="preserve"
+       x="5475"
+       y="5100"
+       fill="#000000"
+       font-family="Times"
+       font-style="normal"
+       font-weight="normal"
+       font-size="288px"
+       text-anchor="start"
+       id="text499">App/User 2</text>
+    <!-- Line -->
+    <rect
+       x="1650"
+       y="4875"
+       width="1500"
+       height="450"
+       stroke="#000000"
+       stroke-width="30px"
+       id="rect501" />
+    <!-- Line -->
+    <rect
+       x="1650"
+       y="4350"
+       width="1500"
+       height="450"
+       stroke="#000000"
+       stroke-width="30px"
+       id="rect503" />
+    <!-- Line -->
+    <rect
+       x="1650"
+       y="3825"
+       width="1500"
+       height="450"
+       stroke="#000000"
+       stroke-width="30px"
+       id="rect505" />
+    <!-- Text -->
+    <text
+       xml:space="preserve"
+       x="1725"
+       y="3675"
+       fill="#000000"
+       font-family="Times"
+       font-style="normal"
+       font-weight="normal"
+       font-size="288"
+       text-anchor="start"
+       id="text507">ends</text>
+    <!-- Text -->
+    <text
+       xml:space="preserve"
+       x="1800"
+       y="4725"
+       fill="#000000"
+       font-family="Times"
+       font-style="normal"
+       font-weight="normal"
+       font-size="288"
+       text-anchor="start"
+       id="text509">idle</text>
+    <!-- Text -->
+    <text
+       xml:space="preserve"
+       x="1800"
+       y="5250"
+       fill="#000000"
+       font-family="Times"
+       font-style="normal"
+       font-weight="normal"
+       font-size="288"
+       text-anchor="start"
+       id="text511">inlist</text>
+    <!-- Text -->
+    <text
+       xml:space="preserve"
+       x="1800"
+       y="4125"
+       fill="#000000"
+       font-family="Times"
+       font-style="normal"
+       font-weight="normal"
+       font-size="288"
+       text-anchor="start"
+       id="text513">active[]</text>
+    <!-- Text -->
+    <text
+       xml:space="preserve"
+       x="1200"
+       y="3075"
+       fill="#000000"
+       font-family="Times"
+       font-style="normal"
+       font-weight="normal"
+       font-size="288px"
+       text-anchor="start"
+       id="text515">CAN Controller</text>
+    <!-- Text -->
+    <text
+       xml:space="preserve"
+       x="4350"
+       y="2400"
+       fill="#000000"
+       font-family="Times"
+       font-style="normal"
+       font-weight="normal"
+       font-size="288"
+       text-anchor="middle"
+       id="text517">edges</text>
+    <!-- Text -->
+    <text
+       xml:space="preserve"
+       x="4350"
+       y="2775"
+       fill="#000000"
+       font-family="Times"
+       font-style="normal"
+       font-weight="normal"
+       font-size="288"
+       text-anchor="middle"
+       id="text519">with</text>
+    <!-- Text -->
+    <text
+       xml:space="preserve"
+       x="4350"
+       y="3150"
+       fill="#000000"
+       font-family="Times"
+       font-style="normal"
+       font-weight="normal"
+       font-size="288px"
+       text-anchor="middle"
+       id="text521">FIFOs</text>
+    <!-- Line -->
+    <!-- polyline -->
+    <polyline
+       points=" 1650,5818 1723,5818 1723,6122 1650,6122 1650,5818"
+       fill="#000000"
+       id="polyline523" />
+    <!-- Line -->
+    <!-- polyline -->
+    <polyline
+       points=" 2250,5818 2322,5818 2322,6122 2250,6122 2250,5818"
+       fill="#000000"
+       id="polyline525" />
+    <!-- Line -->
+    <!-- polyline -->
+    <polyline
+       points=" 1850,5818 1922,5818 1922,6122 1850,6122 1850,5818"
+       fill="#000000"
+       id="polyline527" />
+    <!-- Line -->
+    <!-- polyline -->
+    <polyline
+       points=" 2050,5818 2123,5818 2123,6122 2050,6122 2050,5818"
+       fill="#000000"
+       id="polyline529" />
+    <!-- Line -->
+    <!-- polyline -->
+    <polyline
+       points=" 2450,5818 2522,5818 2522,6122 2450,6122 2450,5818"
+       fill="#000000"
+       id="polyline531" />
+    <!-- Line -->
+    <!-- polyline -->
+    <polyline
+       points=" 2650,5818 2723,5818 2723,6122 2650,6122 2650,5818"
+       fill="#000000"
+       id="polyline533" />
+    <!-- Line -->
+    <!-- polyline -->
+    <polyline
+       points=" 2850,5818 2922,5818 2922,6122 2850,6122 2850,5818"
+       fill="#000000"
+       id="polyline535" />
+    <!-- Line -->
+    <!-- polyline -->
+    <polyline
+       points=" 1646,7426 1719,7426 1719,7730 1646,7730 1646,7426"
+       fill="#000000"
+       id="polyline537" />
+    <!-- Line -->
+    <!-- polyline -->
+    <polyline
+       points=" 2246,7426 2319,7426 2319,7730 2246,7730 2246,7426"
+       fill="#000000"
+       id="polyline539" />
+    <!-- Line -->
+    <!-- polyline -->
+    <polyline
+       points=" 1846,7426 1919,7426 1919,7730 1846,7730 1846,7426"
+       fill="#000000"
+       id="polyline541" />
+    <!-- Line -->
+    <!-- polyline -->
+    <polyline
+       points=" 2047,7426 2119,7426 2119,7730 2047,7730 2047,7426"
+       fill="#000000"
+       id="polyline543" />
+    <!-- Line -->
+    <!-- polyline -->
+    <polyline
+       points=" 2446,7426 2519,7426 2519,7730 2446,7730 2446,7426"
+       fill="#000000"
+       id="polyline545" />
+    <!-- Line -->
+    <!-- polyline -->
+    <polyline
+       points=" 2647,7426 2719,7426 2719,7730 2647,7730 2647,7426"
+       fill="#000000"
+       id="polyline547" />
+    <!-- Line -->
+    <!-- polyline -->
+    <polyline
+       points=" 2846,7426 2919,7426 2919,7730 2846,7730 2846,7426"
+       fill="#000000"
+       id="polyline549" />
+    <!-- Line -->
+    <!-- polyline -->
+    <polyline
+       points=" 1563,7345 1563,7380 1260,7380 1260,7308 1563,7308 1563,7345"
+       fill="#000000"
+       id="polyline551" />
+    <!-- Line -->
+    <!-- polyline -->
+    <polyline
+       points=" 1563,6776 1563,6812 1260,6812 1260,6740 1563,6740 1563,6776"
+       fill="#000000"
+       id="polyline553" />
+    <!-- Line -->
+    <!-- polyline -->
+    <polyline
+       points=" 1563,7155 1563,7191 1260,7191 1260,7119 1563,7119 1563,7155"
+       fill="#000000"
+       id="polyline555" />
+    <!-- Line -->
+    <!-- polyline -->
+    <polyline
+       points=" 1563,6966 1563,7002 1260,7002 1260,6929 1563,6929 1563,6966"
+       fill="#000000"
+       id="polyline557" />
+    <!-- Line -->
+    <!-- polyline -->
+    <polyline
+       points=" 1563,6587 1563,6623 1260,6623 1260,6551 1563,6551 1563,6587"
+       fill="#000000"
+       id="polyline559" />
+    <!-- Line -->
+    <!-- polyline -->
+    <polyline
+       points=" 1563,6398 1563,6433 1260,6433 1260,6361 1563,6361 1563,6398"
+       fill="#000000"
+       id="polyline561" />
+    <!-- Line -->
+    <!-- polyline -->
+    <polyline
+       points=" 1563,6208 1563,6244 1260,6244 1260,6172 1563,6172 1563,6208"
+       fill="#000000"
+       id="polyline563" />
+    <!-- Line -->
+    <!-- polyline -->
+    <polyline
+       points=" 3306,7337 3306,7372 3002,7372 3002,7300 3306,7300 3306,7337"
+       fill="#000000"
+       id="polyline565" />
+    <!-- Line -->
+    <!-- polyline -->
+    <polyline
+       points=" 3306,6768 3306,6804 3002,6804 3002,6732 3306,6732 3306,6768"
+       fill="#000000"
+       id="polyline567" />
+    <!-- Line -->
+    <!-- polyline -->
+    <polyline
+       points=" 3306,7147 3306,7183 3002,7183 3002,7111 3306,7111 3306,7147"
+       fill="#000000"
+       id="polyline569" />
+    <!-- Line -->
+    <!-- polyline -->
+    <polyline
+       points=" 3306,6958 3306,6994 3002,6994 3002,6921 3306,6921 3306,6958"
+       fill="#000000"
+       id="polyline571" />
+    <!-- Line -->
+    <!-- polyline -->
+    <polyline
+       points=" 3306,6579 3306,6615 3002,6615 3002,6543 3306,6543 3306,6579"
+       fill="#000000"
+       id="polyline573" />
+    <!-- Line -->
+    <!-- polyline -->
+    <polyline
+       points=" 3306,6390 3306,6425 3002,6425 3002,6353 3306,6353 3306,6390"
+       fill="#000000"
+       id="polyline575" />
+    <!-- Line -->
+    <!-- polyline -->
+    <polyline
+       points=" 3306,6200 3306,6236 3002,6236 3002,6164 3306,6164 3306,6200"
+       fill="#000000"
+       id="polyline577" />
+    <!-- Line -->
+    <!-- polyline -->
+    <polyline
+       points=" 1686,6122 1650,6122 1650,5818 1723,5818 1723,6122 1686,6122"
+       stroke="#000000"
+       stroke-width="8px"
+       id="polyline579" />
+    <!-- Line -->
+    <!-- polyline -->
+    <polyline
+       points=" 2286,6122 2250,6122 2250,5818 2322,5818 2322,6122 2286,6122"
+       stroke="#000000"
+       stroke-width="8px"
+       id="polyline581" />
+    <!-- Line -->
+    <!-- polyline -->
+    <polyline
+       points=" 2086,6122 2050,6122 2050,5818 2123,5818 2123,6122 2086,6122"
+       stroke="#000000"
+       stroke-width="8px"
+       id="polyline583" />
+    <!-- Line -->
+    <!-- polyline -->
+    <polyline
+       points=" 2486,6122 2450,6122 2450,5818 2522,5818 2522,6122 2486,6122"
+       stroke="#000000"
+       stroke-width="8px"
+       id="polyline585" />
+    <!-- Line -->
+    <!-- polyline -->
+    <polyline
+       points=" 2686,6122 2650,6122 2650,5818 2723,5818 2723,6122 2686,6122"
+       stroke="#000000"
+       stroke-width="8px"
+       id="polyline587" />
+    <!-- Line -->
+    <!-- polyline -->
+    <polyline
+       points=" 2886,6122 2850,6122 2850,5818 2922,5818 2922,6122 2886,6122"
+       stroke="#000000"
+       stroke-width="8px"
+       id="polyline589" />
+    <!-- Line -->
+    <!-- polyline -->
+    <polyline
+       points=" 1682,7730 1646,7730 1646,7426 1719,7426 1719,7730 1682,7730"
+       stroke="#000000"
+       stroke-width="8px"
+       id="polyline591" />
+    <!-- Line -->
+    <!-- polyline -->
+    <polyline
+       points=" 1882,7730 1846,7730 1846,7426 1919,7426 1919,7730 1882,7730"
+       stroke="#000000"
+       stroke-width="8px"
+       id="polyline593" />
+    <!-- Line -->
+    <!-- polyline -->
+    <polyline
+       points=" 2083,7730 2047,7730 2047,7426 2119,7426 2119,7730 2083,7730"
+       stroke="#000000"
+       stroke-width="8px"
+       id="polyline595" />
+    <!-- Line -->
+    <!-- polyline -->
+    <polyline
+       points=" 2482,7730 2446,7730 2446,7426 2519,7426 2519,7730 2482,7730"
+       stroke="#000000"
+       stroke-width="8px"
+       id="polyline597" />
+    <!-- Line -->
+    <!-- polyline -->
+    <polyline
+       points=" 2682,7730 2647,7730 2647,7426 2719,7426 2719,7730 2682,7730"
+       stroke="#000000"
+       stroke-width="8px"
+       id="polyline599" />
+    <!-- Line -->
+    <!-- polyline -->
+    <polyline
+       points=" 2882,7730 2846,7730 2846,7426 2919,7426 2919,7730 2882,7730"
+       stroke="#000000"
+       stroke-width="8px"
+       id="polyline601" />
+    <!-- Line -->
+    <!-- polyline -->
+    <polyline
+       points=" 1563,6776 1563,6812 1260,6812 1260,6740 1563,6740 1563,6776"
+       stroke="#000000"
+       stroke-width="8px"
+       id="polyline603" />
+    <!-- Line -->
+    <!-- polyline -->
+    <polyline
+       points=" 1563,7155 1563,7191 1260,7191 1260,7119 1563,7119 1563,7155"
+       stroke="#000000"
+       stroke-width="8px"
+       id="polyline605" />
+    <!-- Line -->
+    <!-- polyline -->
+    <polyline
+       points=" 1563,6966 1563,7002 1260,7002 1260,6929 1563,6929 1563,6966"
+       stroke="#000000"
+       stroke-width="8px"
+       id="polyline607" />
+    <!-- Line -->
+    <!-- polyline -->
+    <polyline
+       points=" 1563,6587 1563,6623 1260,6623 1260,6551 1563,6551 1563,6587"
+       stroke="#000000"
+       stroke-width="8px"
+       id="polyline609" />
+    <!-- Line -->
+    <!-- polyline -->
+    <polyline
+       points=" 1563,6398 1563,6433 1260,6433 1260,6361 1563,6361 1563,6398"
+       stroke="#000000"
+       stroke-width="8px"
+       id="polyline611" />
+    <!-- Line -->
+    <!-- polyline -->
+    <polyline
+       points=" 1563,6208 1563,6244 1260,6244 1260,6172 1563,6172 1563,6208"
+       stroke="#000000"
+       stroke-width="8px"
+       id="polyline613" />
+    <!-- Line -->
+    <!-- polyline -->
+    <polyline
+       points=" 3306,7337 3306,7372 3002,7372 3002,7300 3306,7300 3306,7337"
+       stroke="#000000"
+       stroke-width="8px"
+       id="polyline615" />
+    <!-- Line -->
+    <!-- polyline -->
+    <polyline
+       points=" 3306,6768 3306,6804 3002,6804 3002,6732 3306,6732 3306,6768"
+       stroke="#000000"
+       stroke-width="8px"
+       id="polyline617" />
+    <!-- Line -->
+    <!-- polyline -->
+    <polyline
+       points=" 3306,7147 3306,7183 3002,7183 3002,7111 3306,7111 3306,7147"
+       stroke="#000000"
+       stroke-width="8px"
+       id="polyline619" />
+    <!-- Line -->
+    <!-- polyline -->
+    <polyline
+       points=" 3306,6958 3306,6994 3002,6994 3002,6921 3306,6921 3306,6958"
+       stroke="#000000"
+       stroke-width="8px"
+       id="polyline621" />
+    <!-- Line -->
+    <!-- polyline -->
+    <polyline
+       points=" 3306,6579 3306,6615 3002,6615 3002,6543 3306,6543 3306,6579"
+       stroke="#000000"
+       stroke-width="8px"
+       id="polyline623" />
+    <!-- Line -->
+    <!-- polyline -->
+    <polyline
+       points=" 3306,6390 3306,6425 3002,6425 3002,6353 3306,6353 3306,6390"
+       stroke="#000000"
+       stroke-width="8px"
+       id="polyline625" />
+    <!-- Line -->
+    <!-- polyline -->
+    <polyline
+       points=" 3306,6200 3306,6236 3002,6236 3002,6164 3306,6164 3306,6200"
+       stroke="#000000"
+       stroke-width="8px"
+       id="polyline627" />
+    <!-- Line -->
+    <!-- polyline -->
+    <polyline
+       points=" 2282,7730 2246,7730 2246,7426 2319,7426 2319,7730 2282,7730"
+       stroke="#000000"
+       stroke-width="8px"
+       id="polyline629" />
+    <!-- Line -->
+    <!-- polyline -->
+    <polyline
+       points=" 1563,7345 1563,7380 1260,7380 1260,7308 1563,7308 1563,7345"
+       stroke="#000000"
+       stroke-width="8px"
+       id="polyline631" />
+    <!-- Line -->
+    <!-- polyline -->
+    <polyline
+       points=" 1886,6122 1850,6122 1850,5818 1922,5818 1922,6122 1886,6122"
+       stroke="#000000"
+       stroke-width="8px"
+       id="polyline633" />
+    <!-- Line -->
+    <!-- polyline -->
+    <polyline
+       points=" 3054,5110 3049,5127 3040,5142 3028,5156 3013,5167 2996,5175 2980,5179 2963,5179  2947,5177 2930,5171 2914,5162 2901,5151 2890,5135 2883,5119 2879,5102 2878,5085  2880,5069 2886,5053 2895,5038 2907,5024 2922,5013 2938,5006 2955,5002 2972,5000  2988,5003 3004,5008 3020,5017 3034,5030 3045,5045 3052,5061 3056,5078 3057,5094  3054,5110"
+       fill="#dc2300"
+       id="polyline635" />
+    <!-- Line -->
+    <!-- polyline -->
+    <polyline
+       points=" 5775,6227 5953,6145 5958,6141 5960,6136 5958,6130 5953,6126 5773,6049 5770,6049  5769,6049 5765,6049 5761,6052 5759,6055 5758,6058 5761,6219 5762,6222 5764,6226  5768,6227 5771,6228 5773,6228 5775,6227"
+       fill="#dc2300"
+       id="polyline637" />
+    <!-- Line -->
+    <!-- polyline -->
+    <polyline
+       points=" 3022,5081 3160,5087 3158,5099 3156,5110 3021,5104 3022,5081"
+       fill="#dc2300"
+       id="polyline639" />
+    <!-- Line -->
+    <!-- polyline -->
+    <polyline
+       points=" 3158,5099 3160,5087 3398,5124 3395,5136 3392,5147 3156,5110 3158,5099"
+       fill="#dc2300"
+       id="polyline641" />
+    <!-- Line -->
+    <!-- polyline -->
+    <polyline
+       points=" 3395,5136 3398,5124 3601,5181 3597,5192 3592,5203 3392,5147 3395,5136"
+       fill="#dc2300"
+       id="polyline643" />
+    <!-- Line -->
+    <!-- polyline -->
+    <polyline
+       points=" 3597,5192 3601,5181 3774,5255 3768,5265 3762,5275 3592,5203 3597,5192"
+       fill="#dc2300"
+       id="polyline645" />
+    <!-- Line -->
+    <!-- polyline -->
+    <polyline
+       points=" 3768,5265 3774,5255 3923,5341 3916,5350 3909,5360 3762,5275 3768,5265"
+       fill="#dc2300"
+       id="polyline647" />
+    <!-- Line -->
+    <!-- polyline -->
+    <polyline
+       points=" 3916,5350 3923,5341 4056,5436 4049,5445 4042,5454 3909,5360 3916,5350"
+       fill="#dc2300"
+       id="polyline649" />
+    <!-- Line -->
+    <!-- polyline -->
+    <polyline
+       points=" 4049,5445 4056,5436 4180,5537 4172,5546 4164,5555 4042,5454 4049,5445"
+       fill="#dc2300"
+       id="polyline651" />
+    <!-- Line -->
+    <!-- polyline -->
+    <polyline
+       points=" 4172,5546 4180,5537 4300,5639 4292,5649 4285,5658 4164,5555 4172,5546"
+       fill="#dc2300"
+       id="polyline653" />
+    <!-- Line -->
+    <!-- polyline -->
+    <polyline
+       points=" 4292,5649 4300,5639 4423,5741 4417,5751 4410,5760 4285,5658 4292,5649"
+       fill="#dc2300"
+       id="polyline655" />
+    <!-- Line -->
+    <!-- polyline -->
+    <polyline
+       points=" 4417,5751 4423,5741 4557,5838 4552,5848 4546,5858 4410,5760 4417,5751"
+       fill="#dc2300"
+       id="polyline657" />
+    <!-- Line -->
+    <!-- polyline -->
+    <polyline
+       points=" 4552,5848 4557,5838 4709,5926 4704,5937 4699,5947 4546,5858 4552,5848"
+       fill="#dc2300"
+       id="polyline659" />
+    <!-- Line -->
+    <!-- polyline -->
+    <polyline
+       points=" 4704,5937 4709,5926 4883,6003 4880,6014 4876,6025 4699,5947 4704,5937"
+       fill="#dc2300"
+       id="polyline661" />
+    <!-- Line -->
+    <!-- polyline -->
+    <polyline
+       points=" 4880,6014 4883,6003 5089,6065 5088,6076 5085,6088 4876,6025 4880,6014"
+       fill="#dc2300"
+       id="polyline663" />
+    <!-- Line -->
+    <!-- polyline -->
+    <polyline
+       points=" 5088,6076 5089,6065 5332,6108 5332,6119 5331,6131 5085,6088 5088,6076"
+       fill="#dc2300"
+       id="polyline665" />
+    <!-- Line -->
+    <!-- polyline -->
+    <polyline
+       points=" 5332,6119 5332,6108 5620,6129 5620,6141 5620,6152 5331,6131 5332,6119"
+       fill="#dc2300"
+       id="polyline667" />
+    <!-- Line -->
+    <!-- polyline -->
+    <polyline
+       points=" 5620,6141 5620,6129 5799,6126 5800,6150 5620,6152 5620,6141"
+       fill="#dc2300"
+       id="polyline669" />
+    <!-- Line -->
+    <!-- polyline -->
+    <polyline
+       points=" 3042,3967 2861,4039 2855,4043 2853,4048 2855,4054 2859,4058 3035,4144 3038,4145  3039,4146 3043,4145 3047,4143 3049,4140 3050,4136 3056,3976 3055,3972 3053,3968  3050,3967 3046,3966 3044,3966 3042,3967"
+       fill="#dc2300"
+       id="polyline671" />
+    <!-- Line -->
+    <!-- polyline -->
+    <polyline
+       points=" 4831,3864 4834,3875 4683,3913 4680,3902 4677,3890 4828,3852 4831,3864"
+       fill="#dc2300"
+       id="polyline673" />
+    <!-- Line -->
+    <!-- polyline -->
+    <polyline
+       points=" 4680,3902 4683,3913 4528,3950 4525,3939 4523,3927 4677,3890 4680,3902"
+       fill="#dc2300"
+       id="polyline675" />
+    <!-- Line -->
+    <!-- polyline -->
+    <polyline
+       points=" 4525,3939 4528,3950 4363,3986 4361,3975 4359,3963 4523,3927 4525,3939"
+       fill="#dc2300"
+       id="polyline677" />
+    <!-- Line -->
+    <!-- polyline -->
+    <polyline
+       points=" 4361,3975 4363,3986 4182,4018 4181,4007 4179,3995 4359,3963 4361,3975"
+       fill="#dc2300"
+       id="polyline679" />
+    <!-- Line -->
+    <!-- polyline -->
+    <polyline
+       points=" 4181,4007 4182,4018 3982,4044 3981,4033 3979,4021 4179,3995 4181,4007"
+       fill="#dc2300"
+       id="polyline681" />
+    <!-- Line -->
+    <!-- polyline -->
+    <polyline
+       points=" 3981,4033 3982,4044 3753,4063 3753,4052 3752,4040 3979,4021 3981,4033"
+       fill="#dc2300"
+       id="polyline683" />
+    <!-- Line -->
+    <!-- polyline -->
+    <polyline
+       points=" 3753,4052 3753,4063 3493,4074 3493,4062 3493,4051 3752,4040 3753,4052"
+       fill="#dc2300"
+       id="polyline685" />
+    <!-- Line -->
+    <!-- polyline -->
+    <polyline
+       points=" 3493,4062 3493,4074 3195,4073 3195,4061 3195,4050 3493,4051 3493,4062"
+       fill="#dc2300"
+       id="polyline687" />
+    <!-- Line -->
+    <!-- polyline -->
+    <polyline
+       points=" 3195,4061 3195,4073 3012,4066 3013,4043 3195,4050 3195,4061"
+       fill="#dc2300"
+       id="polyline689" />
+    <!-- Line -->
+    <!-- polyline -->
+    <polyline
+       points=" 5808,3720 5812,3704 5821,3688 5832,3673 5847,3661 5863,3653 5879,3649 5896,3647  5912,3649 5929,3653 5945,3661 5959,3673 5970,3687 5979,3703 5984,3720 5986,3737  5984,3753 5979,3770 5970,3785 5959,3800 5945,3811 5929,3819 5912,3824 5896,3826  5879,3824 5863,3820 5847,3812 5832,3800 5821,3785 5813,3770 5808,3753 5806,3737  5808,3720"
+       fill="#dc2300"
+       id="polyline691" />
+    <!-- Line -->
+    <!-- polyline -->
+    <polyline
+       points=" 5842,3748 5735,3748 5735,3737 5734,3725 5842,3725 5842,3748"
+       fill="#dc2300"
+       id="polyline693" />
+    <!-- Line -->
+    <!-- polyline -->
+    <polyline
+       points=" 5735,3737 5735,3748 5517,3760 5516,3748 5514,3737 5734,3725 5735,3737"
+       fill="#dc2300"
+       id="polyline695" />
+    <!-- Line -->
+    <!-- polyline -->
+    <polyline
+       points=" 5516,3748 5517,3760 5322,3780 5321,3769 5319,3757 5514,3737 5516,3748"
+       fill="#dc2300"
+       id="polyline697" />
+    <!-- Line -->
+    <!-- polyline -->
+    <polyline
+       points=" 5321,3769 5322,3780 5148,3807 5146,3796 5144,3784 5319,3757 5321,3769"
+       fill="#dc2300"
+       id="polyline699" />
+    <!-- Line -->
+    <!-- polyline -->
+    <polyline
+       points=" 5146,3796 5148,3807 4987,3839 4985,3828 4982,3816 5144,3784 5146,3796"
+       fill="#dc2300"
+       id="polyline701" />
+    <!-- Line -->
+    <!-- polyline -->
+    <polyline
+       points=" 4985,3828 4987,3839 4834,3875 4831,3864 4828,3852 4982,3816 4985,3828"
+       fill="#dc2300"
+       id="polyline703" />
+  </g>
+</svg>
