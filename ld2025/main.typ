@@ -25,8 +25,10 @@
 Controller Area Network (CAN, CAN bus) je sériová datová sběrnice povodně
 vyvinutá v 80. letech firmou Bosch.
 
-- silně využívaná v automobilovém průmyslu jako hlavní komunikační protokol mezi senzory a výpočetními jednotky v automobilech
-- fyzická vrstva jsou dva diferenční dráty, _CAN_H_ a _CAN_L_, uzemnění a volitelné napájení
+- silně využívaná v automobilovém průmyslu jako hlavní komunikační protokol
+  mezi senzory a výpočetními jednotky v automobilech
+- fyzická vrstva jsou dva diferenční dráty, _CAN_H_ a _CAN_L_, uzemnění a
+  volitelné napájení
 - multi-master protocol bez centrálního uzlu
 
 #image("figs/can-bus.svg", height: 3cm)
@@ -39,7 +41,8 @@ Na sběrnici jsou dva definované stavy:
 - dominantní (logická nula)
 
 Dominantní stav přetlačí recesivní, pokud dva uzly vysílají na sběrnici ve
-stejný čas různé stavy. Tato charakteristika je důležitá pro řízení přístupu k médiu.
+stejný čas různé stavy. Tato charakteristika je důležitá pro řízení přístupu
+k médiu.
 
 - stochastický přístup k médiu (bez centrálního rozhodujícího uzlu)
 - kolize jsou řešeny až když nastanou
@@ -60,15 +63,22 @@ CAN zpráva se skládá ze dvou částí:
 
 - každá zpráva má svůj identifikátor, který odpovídá její prioritě
 - během arbitrace jsou identifikátory porovnávány bit po bitu
-- dominantní stav přetlačí recesivní -> pokud zařízení vysílající recesivní bit na sběrnici vidí dominantní, z arbitrace ustoupí
+- dominantní stav přetlačí recesivní -> pokud zařízení vysílající
+  recesivní bit na sběrnici vidí dominantní, z arbitrace ustoupí
 - zpráva s vyšší prioritou (nižším ID) vyhraje arbitraci
-- po vyhrané arbitraci uzel posílá data, ostatní zařízení se pokusí získat místo při další arbitraci
+- po vyhrané arbitraci uzel posílá data, ostatní zařízení se
+  pokusí získat místo při další arbitraci
 
 == Komunikační sběrnice CAN
 
-/ *Příklad*: Máme dvě zařízení používající 3 bitový identifikátor. Zařízení A chce poslat zprávu s identifikátorem _0x1_ (_0b001_), zařízení B s _0x2_ (_0b010_). Při porovnání nejvyššího bitu se nic nestane, obě zařízení vysílají dominantní stav (logickou nulu). U druhého bitu (0 pro A, 1 pro B) ale dominantní stav z A přetlačí recesivní z B a tím zpráva zařízení B prohraje arbitraci. 
+/ *Příklad*: Máme dvě zařízení používající 3 bitový identifikátor.
+  Zařízení A chce poslat zprávu s identifikátorem _0x1_ (_0b001_),
+  zařízení B s _0x2_ (_0b010_). Při porovnání nejvyššího bitu se nic
+  nestane, obě zařízení vysílají dominantní stav (logickou nulu). U druhého
+  bitu (0 pro A, 1 pro B) ale dominantní stav z A přetlačí recesivní z B a
+  tím zpráva zařízení B prohraje arbitraci. 
 
-TODO: obrázek
+  #image("figs/can-arbitration-ab.svg")
 
 == Komunikační sběrnice CAN
 
@@ -78,12 +88,16 @@ Synchronizační požadavky během arbitrační fáze znamenají omezení rychlo
 Tato omezení částečně překonává novější standard CAN FD (flexible data rate).
 
 - arbitrace probíhá standardní rychlostí
-- po skončení arbitrační fáze dojde ke změně bitratu a samotná data jsou přenášena vyšší rychlostí
-- data na 50 metrech teoreticky až 8 Mbit/s (automotive standard 500 Kbit/s a 2 Mbit/s)
+- po skončení arbitrační fáze dojde ke změně bitratu a samotná data jsou
+  přenášena vyšší rychlostí
+- data na 50 metrech teoreticky až 8 Mbit/s (automotive standard 500 Kbit/s
+  a 2 Mbit/s)
 - zvýšen datový payload z 8 bajtů na 64 bajtů
-- *není zpětná kompatibilita, tedy nelze použít CAN FD zprávu, pokud na sběrnici operují zařízení, které umí pouze standardní CAN*
+- *není zpětná kompatibilita, tedy nelze použít CAN FD zprávu, pokud na
+  sběrnici operují zařízení, které umí pouze standardní CAN*
 
-V posledních letech se pomalu začíná používat CAN XL standard umožnující přenést až 2048 bajtů v jedné zprávě.
+V posledních letech se pomalu začíná používat CAN XL standard umožnující
+přenést až 2048 bajtů v jedné zprávě.
 
 == Existující CAN/CAN FD subsystémy
 
@@ -101,15 +115,18 @@ Implementace SocketCANu má ale své nevýhody.
 
 - navržena v době standardního CANu, flagy pro CAN a CAN FD rozděleny
 - socket API může být pro real-time systémy zbytečně složité
-- pro RTEMS by znamenalo nutnost povolené TCP/IP implementace, nevhodné pro menší systémy bez networkingu nebo s omezenou pamětí
+- pro RTEMS by znamenalo nutnost povolené TCP/IP implementace, nevhodné pro
+  menší systémy bez networkingu nebo s omezenou pamětí
 
 = RTEMS
 
 == Real-Time Executive for Multiprocessor Systems
 
 - původně Real-Time Executive for Missile Systems
+  - https://www.rtems.org/
 - vývoj začal koncem 80. letech na žádost US Army Missile Command
-- kód vlastnila vláda USA -> public domain, díky čemuž se RTEMS stal rychle populární i mezi komerčními projekty
+- kód vlastnila vláda USA -> public domain, díky čemuž se RTEMS stal
+  rychle populární
 - dnes prakticky plnohodotný real-time operační systém
 - POSIX kompatibilní, zároveň vlastní rozhraní pro kernel
 - networking stack z FreeBSD, IPv4/IPv6 TCP/IP, DNS server 
@@ -131,7 +148,8 @@ Implementace SocketCANu má ale své nevýhody.
 
 - původní stav bez obecného CAN/CAN FD stacku
 - aplikace či BSP musely implementovat řešení specifická pro cílový target
-- to zásadně komplikuje práci s drivery napříč platformami, zároveň chybí některé užitečné funkce
+- to zásadně komplikuje práci s drivery napříč platformami, zároveň chybí
+  některé užitečné funkce
 - užitečné funkcionality:
   - blokující/neblokující zápis a čtení
   - TX/RX polling
@@ -150,9 +168,11 @@ Implementace SocketCANu má ale své nevýhody.
   - loadable modul do Linux kernelu vyvinutý na CVUT začátkem tisíciletí
   - později se od něj v Linuxu upustilo ve prostěch SocketCANu
 - POSIX character device driver rozhraní
-  - CAN ovladač registrován jako device do _/dev_ složky (např. _/dev/can0_, _/dev/can1_, ...)
+  - CAN ovladač registrován jako device do _/dev_ složky (např. _/dev/can0_,
+    _/dev/can1_, ...)
   - standardní IO funkce _open_, _write_, _read_, _ioctl_
-- využití FIFO front organizovaných do orientovaných hran mezi ovladačem a aplikací
+- využití FIFO front organizovaných do orientovaných hran mezi ovladačem a
+  aplikací
 
   #image("figs/oriented-graph.svg", height: 2.8cm)
 
@@ -351,7 +371,9 @@ ssize_t ioctl( fd, RTEMS_CAN_POLL_RX_AVAIL, &timeout );
 - algoritmus zajišťuje, aby HW buffery dostaly správné pořadí v němž mají přístupovat ke sběrnici a tedy k arbitraci
   - toto pořadí je určeno na základě prioritní třídy a pořadí zpráv v rámci této třídy
 
-*Pokud je do bufferu vložena nová CAN zpráva, tak buffer musí být ve vysílací sekvenci po všech zprávách ze stejné či vyšší prioritní třídy, ale před všemi zprávami z nižší prioritní třídy*
+*Pokud je do bufferu vložena nová CAN zpráva, tak buffer musí být ve
+vysílací sekvenci po všech zprávách ze stejné či vyšší prioritní třídy,
+ale před všemi zprávami z nižší prioritní třídy*
 
 == Jak určit správnou sekvenci?
 
@@ -511,7 +533,9 @@ ssize_t ioctl( fd, RTEMS_CAN_POLL_RX_AVAIL, &timeout );
 
 == Zdroje 
 
-- https://commons.wikimedia.org/wiki/File:CAN-Bus_Elektrische_Zweidrahtleitung.svg
-- Píša, Pavel. Linux/RT-Linux CAN Driver (LinCAN). [cit. 2024-25-02]. Available from https://cmp.felk.cvut.cz/~pisa/can/doc/lincandoc-0.3.pdf.
-- Federico Reghenzani, Giuseppe Massari, and William Fornaciari. 2019. The Real-Time Linux Kernel: A Survey on PREEMPT RT. ACM Comput. Surv. 52, 1, Article 18 (January 2020), 36 pages. https://doi.org/10.1145/3297714 CC-BY 2024: Michal Lenc, Pavel P´ıˇsa Scheduling of CAN Message Transmission
-- Vasilevski, Matěj. CAN Bus Latency Test Automation for Continuous Testing and Evaluation. master’s thesis. CTU FEE, 2022. Available from https://dspace.cvut.cz/bitstream/handle/10467/101450/F3-DP-2022-Vasilevski-Matej-vasilmat.pdf.
+- CVUT CAN projekty: https://canbus.pages.fel.cvut.cz/
+- CAN zapojení CC BY-SA z https://commons.wikimedia.org/wiki/File:CAN-Bus_Elektrische_Zweidrahtleitung.svg
+- Píša, Pavel. Linux/RT-Linux CAN Driver (LinCAN). https://cmp.felk.cvut.cz/~pisa/can/doc/lincandoc-0.3.pdf
+- Federico Reghenzani, Giuseppe Massari, and William Fornaciari. 2019. The Real-Time Linux Kernel: A Survey on PREEMPT RT. ACM Comput. Surv. 52, 1, Article 18 (January 2020), 36 pages. https://doi.org/10.1145/3297714
+- CAN Bus Latency Test Automation for Continuous Testing and Evaluation. Matěj Vasilevski, 2022: https://dspace.cvut.cz/handle/10467/101450
+- CAN FD Support for Space Grade Real-Time RTEMS Executive; Michal Lenc; 2024: https://dspace.cvut.cz/handle/10467/114749
