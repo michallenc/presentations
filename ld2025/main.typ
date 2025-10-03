@@ -5,7 +5,7 @@
   subtitle: "Linux Days 2025",
   footer-title: "Linux Days 2025",
   footer-subtitle: "Michal Lenc & Pavel Píša",
-  date: "5.10.2025",
+  date: "5. 10. 2025",
   authors: ("Michal Lenc", "Pavel Píša"),
 
   // Optional Styling (for more / explanation see in the typst universe)
@@ -22,7 +22,7 @@
 
 == Komunikační sběrnice CAN
 
-Controller Area Network (CAN, CAN bus) je sériová datová sběrnice povodně
+Controller Area Network (CAN, CAN bus) je sériová datová sběrnice původně
 vyvinutá v 80. letech firmou Bosch.
 
 - silně využívaná v automobilovém průmyslu jako hlavní komunikační protokol
@@ -33,7 +33,7 @@ vyvinutá v 80. letech firmou Bosch.
 
 #image("figs/can-bus.svg", height: 3cm)
 
-== Komunikační sběrnice CAN
+#pagebreak()
 
 Na sběrnici jsou dva definované stavy:
 
@@ -52,7 +52,7 @@ k médiu.
 Tento přístup k médiu umožňuje využití sběrnice v real-time aplikacích, kde
 bývá vyžadován deterministický přenos kritických zpráv mezi zařízeními.
 
-== Komunikační sběrnice CAN
+#pagebreak()
 
 CAN zpráva se skládá ze dvou částí:
 
@@ -69,7 +69,7 @@ CAN zpráva se skládá ze dvou částí:
 - po vyhrané arbitraci uzel posílá data, ostatní zařízení se
   pokusí získat místo při další arbitraci
 
-== Komunikační sběrnice CAN
+#pagebreak()
 
 / *Příklad*: Máme dvě zařízení používající 3 bitový identifikátor.
   Zařízení A chce poslat zprávu s identifikátorem _0x1_ (_0b001_),
@@ -80,7 +80,7 @@ CAN zpráva se skládá ze dvou částí:
 
   #image("figs/can-arbitration-ab.svg")
 
-== Komunikační sběrnice CAN
+#pagebreak()
 
 Synchronizační požadavky během arbitrační fáze znamenají omezení rychlosti na
 1 Mbit/s při vzdálenosti přibližně 50 metrů.
@@ -209,7 +209,7 @@ Aplikace používající CAN mohou mít různé požadavky na přístup ke kontr
     - fronta pro error zprávy
   - filtrace odesílaných zpráv podle priority
     - některé zprávy může aplikace chtít odeslat prioritně
-    - rozdělení zpráv do front podle rozsahu ID (problém s _priority_inversion_) 
+    - rozdělení zpráv do front podle rozsahu ID (problém s _priority inversion_)
 
   #colbreak()
 
@@ -336,7 +336,7 @@ ssize_t ioctl( fd, RTEMS_CAN_POLL_RX_AVAIL, &timeout );
 
   #image("figs/can-inversion.svg", height: 3.5cm)
 
-== ...na CAN sběrnici
+#pagebreak()
 
   #image("figs/can-arbitration-inv.svg")
 
