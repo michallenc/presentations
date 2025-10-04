@@ -144,6 +144,12 @@ Implementace SocketCANu má ale své nevýhody.
 - kernel v C, aplikace i C++, Java, Lua, Rust
 ]
 
+#pagebreak()
+
+  #image("figs/electra.jpeg", height: 6cm)
+
+  Software defined radio Electra, telekomunikační družice pro mise na Mars.
+
 == Podpora CAN sběrnice
 
 - původní stav bez obecného CAN/CAN FD stacku
@@ -300,7 +306,7 @@ ssize_t ioctl( fd, RTEMS_CAN_POLL_RX_AVAIL, &timeout );
 
 == Naměřené latence
 
-- CAN LaTester infrastutura původně vyvinutá pro testování CAN latencí v Linux jádře
+- CAN LaTester infrastruktura původně vyvinutá pro testování CAN latencí v Linux jádře
 - _DUT_ funguje jako CAN gateway: dostane zprávu ze sběrnice A a okamžitě ji odešle na B
 
 #columns(2)[
