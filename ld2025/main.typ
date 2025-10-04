@@ -178,7 +178,7 @@ Implementace SocketCANu má ale své nevýhody.
 
 == FIFO fronty
 
-Rozhraní sloužící k předávání CAN zpráv mezi kontrolerem a aplikací.
+Rozhraní sloužící k předávání CAN zpráv mezi řadičem a aplikací.
 
 #columns(2)[
   - fronty rozděleny podle směru a priority
@@ -200,7 +200,7 @@ Rozhraní sloužící k předávání CAN zpráv mezi kontrolerem a aplikací.
 
 == Filtrace zpráv do front
 
-Aplikace používající CAN mohou mít různé požadavky na přístup ke kontroleru.
+Aplikace používající CAN mohou mít různé požadavky na přístup k řadiči.
 
 #columns(2)[
   - filtrace přijatých zpráv podle flagů
@@ -329,7 +329,7 @@ ssize_t ioctl( fd, RTEMS_CAN_POLL_RX_AVAIL, &timeout );
 
 == ...na CAN sběrnici
 - vzniká během arbitrační fáze
-- místo tasku máme CAN zprávy, kritické sekce jsou HW buffery kontroléru
+- místo tasku máme CAN zprávy, kritické sekce jsou HW buffery řadiče
 - jedno zařízení zahlcuje sběrnici zprávami se střední prioritou
 - druhé se snaží poslat mix zpráv s nízkou a vysokou prioritou
 - pokud jsou HW buffery zaplněné zprávami s nízkou prioritou, vysoká priorita se nikdy nedostane k arbitraci
